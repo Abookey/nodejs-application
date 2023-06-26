@@ -22,17 +22,17 @@
     "sonarqube-scanner": "^2.7.0"
   },
   "engines": {
-    "node": "v10.6.0"
+    "node": "v16.19.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/Abookey/nodejs-application"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Abookey",
     "express"
   ],
-  "author": "Simon Legah",
-  "license": "MyLandmarkTech"
+  "author": "Faisal Saidu",
+  "license": "Abookey"
 }
